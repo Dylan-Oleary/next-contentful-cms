@@ -1,0 +1,15 @@
+# build
+.next/*
+
+# dependencies
+node_modules/*
+*.lock
+package-lock.json
+
+# env
+*.env*
+
+# tooling
+.gitignore
+.husky/*
+.prettierignore
